@@ -1,9 +1,10 @@
 # Enigma
+C++ implementation of the multi rotor Enigma machine.
+This code implemements a generalized version of an Enigma cypher machine with multiple rotors and triggers.
+
 ![Enigma](https://github.com/theATM/Enigma/assets/48883111/c52555ba-b6ed-4bc8-b1b6-18725ae301de)
 
-C++ implementation of the multi rotor Enigma machine.
 
-This code implemements a generalized version of an Enigma cypher machine with multiple rotors and triggers.
 
 The algorithm uses numbers (instead of letters) both in the input and the cypher (up to N digit alfabet).
 The number of rotors, triggers (and trigger placement), reflectors and letters, have to be passed to the program first.
